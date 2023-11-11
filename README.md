@@ -1,6 +1,6 @@
 ![A passionate Full Stack Web Developer](https://github.com/NadimRifaii/NadimRifaii/blob/main/header%403960w.png)
-# Hi there 👋, I'm Nadim
-## A passionate Full Stack Web Developer 
+<h1 align="center">Hi 👋, I'm Mohammad Haidar Mestrah</h1>
+<h3 align="center">A passionate full stack web developer from Lebanon</h3>
 
 - 💬 Ask me about React, Nodejs , JS 
 - 📫 How to reach me: nadimrifaii3@gmail.com
