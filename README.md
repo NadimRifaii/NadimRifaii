@@ -1,17 +1,16 @@
-### Hi there 👋 I'm Nadim Rifaii
-### A passionate Full Stack Web Developer 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadimRifaii)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**NadimRifaii/NadimRifaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Nadim
+#### A passionate Full Stack Web Developer 
+![A passionate Full Stack Web Developer ](https://th.bing.com/th/id/OIP.9XZS_H0cpXuTTGkFNsajfwHaB7?pid=ImgDet&rs=1)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: NODE JS / EXPRESS JS / REACT / MONGODB / PHP / LARAVEL / MySQL / GIT / FIGM / JS / HTML / CSS 
+
+- 💬 Ask me about React, Nodejs , JS 
+- 📫 How to reach me: nadimrifaii3@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NadimRifaii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nadimrifaii/)  
+
+
+
+
