@@ -5,7 +5,7 @@
 - 💬 Ask me about **React, Nodejs , JS**
 - 📫 How to reach me: nadimrifaii3@gmail.com
 
-## Skills: 
+<h3 align="left">Skills:</h3>
 <img src="https://github.com/NadimRifaii/NadimRifaii/blob/main/git-original.svg" width="25" /><img  src="https://github.com/NadimRifaii/NadimRifaii/blob/main/figma-original.svg" width="25" /><img src="https://github.com/NadimRifaii/NadimRifaii/blob/main/javascript-original.svg"  width="25"/><img src="https://github.com/NadimRifaii/NadimRifaii/blob/main/css3-original-wordmark.svg" width="30" /><img src="https://github.com/NadimRifaii/NadimRifaii/blob/main/python-original.svg" width="25"/><img src="https://github.com/NadimRifaii/NadimRifaii/blob/main/java-original.svg" width="25" />
 
 
