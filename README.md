@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Nadim</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-- 💬 Ask me about React, Nodejs , JS 
+- 💬 Ask me about **React, Nodejs , JS**
 - 📫 How to reach me: nadimrifaii3@gmail.com
 
 ## Skills: 
