@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nadim
 #### A passionate Full Stack Web Developer 
-![A passionate Full Stack Web Developer ](https://th.bing.com/th/id/OIP.9XZS_H0cpXuTTGkFNsajfwHaB7?pid=ImgDet&rs=1)
+![A passionate Full Stack Web Developer ](https://github.com/NadimRifaii/NadimRifaii/blob/main/header%403960w.png)
 
 
 Skills: NODE JS / EXPRESS JS / REACT / MONGODB / PHP / LARAVEL / MySQL / GIT / FIGM / JS / HTML / CSS 
