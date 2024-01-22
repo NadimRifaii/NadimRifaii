@@ -4,7 +4,6 @@
 <h3 align="center">A passionate junior full stack web developer</h3>
 
 
-<p>
 - 💬 Ask me about **react, Node.js, Go**
 
 - 📫 How to reach me **nadimrifaii3@gmail.com**
@@ -13,11 +12,8 @@
 <p align="right">
   <img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" height="300" />
 </p>
-</p>
 
-<p>
-  <br>
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/nadim-rifaii-the-decoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nadim-rifaii-the-decoder" height="30" width="40" /></a>
