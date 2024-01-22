@@ -1,7 +1,7 @@
 ![A passionate Full Stack Web Developer](https://github.com/NadimRifaii/NadimRifaii/blob/main/header%403960w.png)
 <h1 align="center">Hi 👋, I'm Nadim</h1>
 <h3 align="center">A passionate junior full stack web developer</h3>
-<p align="right" > <img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" height="100" /> </p>
+<p align="right" > <img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" height="500" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadimrifaii&label=Profile%20views&color=0e75b6&style=flat" alt="nadimrifaii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadimrifaii" alt="nadimrifaii" /></a> </p>
