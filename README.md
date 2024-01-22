@@ -1,7 +1,7 @@
-![A passionate Full Stack Web Developer](https://github.com/NadimRifaii/NadimRifaii/blob/main/header%403960w.png)
-
 <h1 align="center">Hi 👋, I'm Nadim</h1>
 <h3 align="center">A passionate junior full stack web developer</h3>
+<img align="right" alt="coding" with="200" src="https://th.bing.com/th/id/R.8190a1dce0daf6e56c705dba6e07d27f?rik=NnlgtDR9eYPrMQ&pid=ImgRaw&r=0"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadimrifaii&label=Profile%20views&color=0e75b6&style=flat" alt="nadimrifaii" /> </p>
 
 
 - 💬 Ask me about **react, Node.js, Go**
@@ -9,16 +9,15 @@
 - 📫 How to reach me **nadimrifaii3@gmail.com**
 
 - ⚡ Fun fact **I am funny**
-<p align="right">
-  <img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" height="300" />
-</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/nadim-rifaii-the-decoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nadim-rifaii-the-decoder" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/nadimrifaii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nadimrifaii/" height="30" width="40" /></a>
-  <!-- Add other social media links here -->
+<a href="https://codepen.io/https://codepen.io/nadim-rifaii-the-decoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nadim-rifaii-the-decoder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nadimrifaii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nadimrifaii/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23281639/nadim-rifaii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23281639/nadim-rifaii" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/nadimrifaii3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/nadimrifaii3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/nadimrifaii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nadimrifaii/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@nadimrifaii3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nadimrifaii3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadimrifaii&show_icons=true&locale=en" alt="nadimrifaii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadimrifaii&" alt="nadimrifaii" /></p>
-
-
