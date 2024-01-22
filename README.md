@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadim</h1>
 <h3 align="center">A passionate junior full stack web developer</h3>
-<img align="right" alt="coding" with="200" src="https://th.bing.com/th/id/R.8190a1dce0daf6e56c705dba6e07d27f?rik=NnlgtDR9eYPrMQ&pid=ImgRaw&r=0"/>
+<img align="right" alt="coding" with="200" src="[https://th.bing.com/th/id/R.8190a1dce0daf6e56c705dba6e07d27f?rik=NnlgtDR9eYPrMQ&pid=ImgRaw&r=0](https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif)"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadimrifaii&label=Profile%20views&color=0e75b6&style=flat" alt="nadimrifaii" /> </p>
 
 
