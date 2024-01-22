@@ -5,9 +5,11 @@
 
 
 <p>
-  - 💬 Ask me about **React, Node.js, Go**
-- 📫 How to reach me: **nadimrifaii3@gmail.com**
-- ⚡ Fun fact: **I am funny**
+- 💬 Ask me about **react, Node.js, Go**
+
+- 📫 How to reach me **nadimrifaii3@gmail.com**
+
+- ⚡ Fun fact **I am funny**
 <p align="right">
   <img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" height="300" />
 </p>
