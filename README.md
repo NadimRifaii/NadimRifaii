@@ -1,7 +1,7 @@
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+![A passionate Full Stack Web Developer](https://github.com/NadimRifaii/NadimRifaii/blob/main/header%403960w.png)
 <h1 align="center">Hi 👋, I'm Nadim</h1>
 <h3 align="center">A passionate junior full stack web developer</h3>
-<img align="right" alt="coding" with="400" src="https://th.bing.com/th/id/R.8190a1dce0daf6e56c705dba6e07d27f?rik=NnlgtDR9eYPrMQ&pid=ImgRaw&r=0"/>
+<img align="right" alt="coding" with="200" src="https://th.bing.com/th/id/R.8190a1dce0daf6e56c705dba6e07d27f?rik=NnlgtDR9eYPrMQ&pid=ImgRaw&r=0"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadimrifaii&label=Profile%20views&color=0e75b6&style=flat" alt="nadimrifaii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadimrifaii" alt="nadimrifaii" /></a> </p>
